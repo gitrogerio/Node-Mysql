@@ -5,9 +5,9 @@ app.use(express.logger());
 
 var db_config = {
         host     : 'us-cdbr-iron-east-05.cleardb.net',
-        user     : 'b2d6de3457768a',
-        password : 'c0c58981',
-        database : 'heroku_8fac815f167a330',	
+        user     : 'bc80a0bf89dd49',
+        password : '1f2c0ddd',
+        database : 'heroku_55eb98ebb7a7c10',	
 };
 
 var connection;
