@@ -1,4 +1,4 @@
-MySql-NodeJS-Heroku
+Node-Mysql
 ===================
 
 Connection MySql ClearDB and NodeJS on a Heroku Server
