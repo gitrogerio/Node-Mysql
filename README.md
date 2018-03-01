@@ -1,6 +1,5 @@
 Node-Mysql
 ===================
 
-Connection MySql ClearDB and NodeJS on a Heroku Server
+Conexão MySql com ClearDB e NodeJS em um servidor Heroku
 
-THis is everything you need, whatch this video: http://www.youtube.com/watch?v=2OGHdii_42s
